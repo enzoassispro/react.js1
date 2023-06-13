@@ -1,0 +1,12 @@
+.form{
+    display: flex;
+    justify-content: center;
+    margin: 5rem 0;
+}
+.form form{
+    width: 70%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    padding: 3rem;
+    border: 2px solid rgba(63, 63, 63, 0.582);
+}
