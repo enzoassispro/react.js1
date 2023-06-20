@@ -1,6 +1,12 @@
 .btn{
-    background-color: black;
+    background-color: #191c23b4;
     color: white;
     border: none;
-    width: ;
+    width: 90px ;
+    height: 40px;
+    border-radius: 5px;
+    margin: 1.3em 2em;
+    font-size: 17px;
+    color: #ffffff;
+    border: solid 2px #191c23;
 }
